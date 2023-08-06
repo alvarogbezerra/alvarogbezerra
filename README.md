@@ -9,7 +9,7 @@ Ao longo da minha trajetória profissional, enfrentei diversas adversidades, mas
 No momento, estou envolvido em algumas atividades:
 
 - Trabalhando com assessoria de empresas em processos licitatórios;
-- Aprendendo JavaScript com foco em programação orientada a objetos;
+- Aprendendo JavaScript e Java com foco em programação orientada a objetos;
 - Desenvolvendo scripts de CRUD como parte do meu curso na faculdade.
 
 Além disso, não poderia deixar de mencionar que sou aluno do Reservatório de Dopamina🎈
