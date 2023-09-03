@@ -9,11 +9,12 @@ Ao longo da minha trajetória profissional, enfrentei diversas adversidades, mas
 No momento, estou envolvido em algumas atividades:
 
 - Trabalhando com assessoria de empresas em processos licitatórios;
-- Aprendendo JavaScript e Java com foco em programação orientada a objetos;
-- Desenvolvendo scripts de CRUD como parte do meu curso na faculdade.
+- Aprendendo Java com foco em programação orientada a objetos;
+- Aprendendo C para facilitar os meus estudos na matéria Estrutura de dados;
+- Aprendendo sobre Modelagem de dados com o brModelo para futuramente organizar de forma gráfica os meus projetos de POO;
+- Desenvolvendo scripts de CRUD, alguns sisteminhas usando POO com a linguagem Java e JavaScript como parte do meu curso na faculdade.
 
 Além disso, não poderia deixar de mencionar que sou aluno do Reservatório de Dopamina🎈
-
 Sinta-se à vontade para explorar meus projetos e repositórios aqui no GitHub. Estou sempre em busca de novas oportunidades e colaborações interessantes.
 
-Obrigado pela visita! 😊
+Meu perfil de cursos na Alura: https://cursos.alura.com.br/user/alvarogblimapx
