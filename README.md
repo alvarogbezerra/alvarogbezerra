@@ -10,8 +10,7 @@ No momento, estou envolvido em algumas atividades:
 
 - Trabalhando com assessoria de empresas em processos licitatórios;
 - Aprendendo Java com foco em programação orientada a objetos;
-- Aprendendo C para facilitar os meus estudos na matéria Estrutura de dados;
-- Aprendendo sobre Modelagem de dados com o brModelo para futuramente organizar de forma gráfica os meus projetos de POO;
+- Aprendendo sobre MySQL e modelagem de dados para futuramente organizar de forma gráfica os meus projetos de POO;
 - Desenvolvendo scripts de CRUD, alguns sisteminhas usando POO com a linguagem Java e JavaScript como parte do meu curso na faculdade.
 
 Além disso, não poderia deixar de mencionar que sou aluno do Reservatório de Dopamina🎈
