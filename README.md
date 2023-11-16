@@ -11,7 +11,6 @@ No momento, estou envolvido em algumas atividades:
 - Trabalhando com assessoria de empresas em processos licitatórios;
 - Aprendendo Java com foco em programação orientada a objetos;
 - Aprendendo sobre MySQL e modelagem de dados para futuramente organizar de forma gráfica os meus projetos de POO;
-- Desenvolvendo scripts de CRUD, alguns sisteminhas usando POO com a linguagem Java e JavaScript como parte do meu curso na faculdade.
 
 Além disso, não poderia deixar de mencionar que sou aluno do Reservatório de Dopamina🎈
 Sinta-se à vontade para explorar meus projetos e repositórios aqui no GitHub. Estou sempre em busca de novas oportunidades e colaborações interessantes.
