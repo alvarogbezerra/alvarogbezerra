@@ -6,13 +6,7 @@ No momento, estou explorando diferentes áreas para descobrir em qual delas dese
 
 Ao longo da minha trajetória profissional, enfrentei diversas adversidades, mas sempre soube extrair delas conhecimento para me aprimorar como profissional.
 
-No momento, estou envolvido em algumas atividades:
-
-- Trabalhando com assessoria de empresas em processos licitatórios;
-- Aprendendo Java com foco em programação orientada a objetos;
-- Aprendendo sobre MySQL e modelagem de dados para futuramente organizar de forma gráfica os meus projetos de POO;
-
-Além disso, não poderia deixar de mencionar que sou aluno do Reservatório de Dopamina🎈
 Sinta-se à vontade para explorar meus projetos e repositórios aqui no GitHub. Estou sempre em busca de novas oportunidades e colaborações interessantes.
 
+Meu perfil de cursos no Linkedin: https://www.linkedin.com/in/alvarogbezerra/
 Meu perfil de cursos na Alura: https://cursos.alura.com.br/user/alvarogblimapx
